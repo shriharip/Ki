@@ -57,7 +57,7 @@ spoon.Ki.workflowEvents = {...}    -- configure `spoon.Ki` here
 spoon.Ki:start()                   -- enable keyboard shortcuts
 ```
 
-Nearly everything in Ki is customizable! API documentation can be found [here](https://andweeb.github.io/ki/html/Ki.html) and usage examples [here](docs/usage-examples).
+Nearly everything in Ki is customizable! API documentation can be found [here](https://shriharip.github.io/ki/) and usage examples [here](docs/usage-examples).
 
 ## Development
 
